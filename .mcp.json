@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "token-meter-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/dafeiai918/token-meter-mcp",
+        "token-meter-mcp"
+      ]
+    }
+  }
+}
