@@ -1,0 +1,7 @@
+name: token-meter-mcp
+description: Token 用量与成本分析 MCP：算花费 / 排行 / 省钱建议
+categories:
+  - tools
+  - analytics
+license: MIT
+repository: https://github.com/dafeiai918/token-meter-mcp
